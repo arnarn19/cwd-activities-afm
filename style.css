@@ -1,0 +1,30 @@
+h1, h2, h3, h4, h5, h6{
+    font-weight: 200;
+}
+.span-text{
+    font-weight: 700;
+}
+.stock-link{
+    font-weight: 400;
+    font-size: 12px;
+}
+.stock-link-small{
+    font-weight: 300;
+    font-size: 11px;
+    margin-left: 30px;
+}
+.grid-img{
+    margin: 19px 0px 20px;
+    
+    
+}
+.adobe-ads{
+    position: sticky;
+top: 20px;
+}
+.name{
+    font-weight: 700;
+}
+.button-algn{
+    margin-left: 65px;
+}
